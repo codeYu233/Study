@@ -1,0 +1,7 @@
+Two kinds of inhabitants:
+
+Knights: always tell the truth;  Knaves: always  lie.
+
+You encounter 2 people A and B.
+A says:”B is a knight”, B says: “I and A are of opposite types”. 
+What are A and B?
